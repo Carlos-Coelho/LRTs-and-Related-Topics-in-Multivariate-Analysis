@@ -3,8 +3,8 @@ Folder with Mathematica, R and MAXIMA modules to implement distributions mention
 
 It has the modules referred in:
 
-Chapter-8 ("A General Near-Exact Distribution Theory for the Most Common Likelihood Ratio Test Statistics Used in Multivariate Analysis"), 
+Chapter-8  <"A General Near-Exact Distribution Theory for the Most Common Likelihood Ratio Test Statistics Used in Multivariate Analysis">, 
 
-Chapter-10 ("The Exact and Near-Exact Distributions of the Main Likelihood Ratio Test Statistics Used in the Complex Multivariate Normal Setting") and 
+Chapter-10 <"The Exact and Near-Exact Distributions of the Main Likelihood Ratio Test Statistics Used in the Complex Multivariate Normal Setting"> and 
 
-Chapter-12 ("On the Distribution of Linear Combinations of Chi-Square Random Variables").
+Chapter-12 <"On the Distribution of Linear Combinations of Chi-Square Random Variables">.
